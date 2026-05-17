@@ -1,12 +1,24 @@
 {
   "name": "backend",
   "version": "1.0.0",
+<<<<<<< HEAD
   "description": "chai or code",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+=======
+  "description": "this is a video followed by chai or code backend series",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+>>>>>>> ad8e28800b037eabe5dac03627a81b2413017bd2
   "author": "kumkum",
   "license": "ISC"
 }
